@@ -2,7 +2,7 @@
 # Roomba in Python
 # This file implements an algorithm for a roomba cleaning a room.
 #
-# Author: Dr. EB <------ REPLACE THIS WITH YOUR NAME!
+# Author: Niksa <------ REPLACE THIS WITH YOUR NAME!
 # -----------------------------------------------------------------------------
  
 from turtle import left, forward, backward
